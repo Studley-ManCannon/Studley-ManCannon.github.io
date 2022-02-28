@@ -1,0 +1,148 @@
+.serviceBox .service-content h3 {
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.serviceBox .service-content p {
+  font-size: 14px;
+  text-align: justify;
+}
+
+.serviceBox.yellow:hover h3 {
+  color: #FFFFFF;
+}
+
+.serviceBox.green .service-icon, .serviceBox.green:hover .read a {
+  background: #01a89e;
+}
+
+.serviceBox.green:hover h3 {
+  color: #FFFFFF;
+}
+
+.serviceBox.pink .service-icon, .serviceBox.pink:hover .read a {
+  background: #d66c9a;
+}
+
+.serviceBox.pink:hover h3 {
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 990px) {
+  .serviceBox {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .serviceBox .service-content {
+    padding: 0 30px;
+  }
+}
+
+.serviceBox {
+  padding: 10px 0 30px;
+  text-align: center;
+  box-shadow: 0px 0px 5px #000000;
+  border: 2px solid #2E2C91;
+}
+
+.serviceBox .service-icon {
+  padding: 25px 30px;
+}
+
+.serviceBox .service-icon a {
+  color: #fff;
+  font-size: 50px;
+}
+
+.serviceBox .service-content {
+  padding: 0 50px;
+  color: #6c6060;
+}
+
+.serviceBox .service-content h3 {
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.serviceBox .service-content hr {
+  background: #b4b4b4;
+  height: 1px;
+}
+
+.serviceBox .service-content p {
+  font-size: 14px;
+  text-align: justify;
+}
+
+.serviceBox.yellow:hover h3 {
+  color: #FFFFFF;
+}
+
+.serviceBox.green .service-icon, .serviceBox.green:hover .read a {
+  background: #01a89e;
+}
+
+.serviceBox.green:hover h3 {
+  color: #FFFFFF;
+}
+
+.serviceBox.pink .service-icon, .serviceBox.pink:hover .read a {
+  background: #d66c9a;
+}
+
+.serviceBox.pink:hover h3 {
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 990px) {
+  .serviceBox {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .serviceBox .service-content {
+    padding: 0 30px;
+  }
+}
+
+.boxes {
+  margin: 0%;
+  padding-right: 15%;
+  padding-left: 15%;
+  margin-top: 2%;
+}
+
+.banner {
+  background: #2E2C91;
+  color: #FFFFFF;
+  opacity: 1;
+  /*box-shadow: inset 0px 0px 5px #000000;*/
+  margin-top: -10px;
+  height: 20px;
+}
+
+icons {
+  display: flex;
+  float: right;
+  margin-right: -22px;
+  margin-top: -13px;
+}
+
+.icons {
+  display: flex;
+  float: right;
+  margin-right: -22px;
+  margin-top: -13px;
+}
+
+headers {
+  margin-top: 10px;
+}
+
+.skillbox {
+  border: 1px solid black;
+}
+
