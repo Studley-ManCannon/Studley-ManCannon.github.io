@@ -44,8 +44,6 @@
 .info-card {
   width: 30rem;
   height: 20.95rem;
-  border:1px solid red;
-
 }
 
 .left-side-container {
@@ -56,7 +54,6 @@
 }
 
 .dialogue-box {
-  border:1px solid green;
   height:100%;
   overflow:auto;
   display: block;
