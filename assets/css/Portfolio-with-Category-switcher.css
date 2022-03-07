@@ -99,3 +99,18 @@
 .skill-name {
   padding-bottom: 10rem;
 }
+
+.blog-slider__item {
+  background: #332F2E;
+}
+
+.blog-info {
+  border: 1px solid black;
+  align-items: center;
+  
+}
+.slider-info-box {
+  border: 1px solid red;
+  width:5rem; 
+  height:100%;
+}
