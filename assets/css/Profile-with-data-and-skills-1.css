@@ -76,3 +76,7 @@
   background-color: #332F2E;
   color: #ffffff;
 }
+
+.text-secondary, .text-muted {
+  color:#ffffff;
+}
