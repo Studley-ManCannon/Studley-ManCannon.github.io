@@ -105,12 +105,9 @@
 }
 
 .blog-info {
-  border: 1px solid black;
   align-items: center;
-  
 }
 .slider-info-box {
-  border: 1px solid red;
-  width:5rem; 
+  width:100%;
   height:100%;
 }
