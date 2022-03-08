@@ -114,7 +114,6 @@
 }
 
 .blog-slider__img {
-  box-shadow: 0px 0px 6px #111138;
   width: 300px;
   flex-shrink: 0;
   height: 300px;

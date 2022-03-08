@@ -22,8 +22,8 @@
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #ff5821;
-  background: #f6f0f0;
+  color: #00b0f0;
+  background: #313030;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -110,4 +110,14 @@
 .slider-info-box {
   width:100%;
   height:100%;
+}
+
+.blog-slider__img {
+  width: 50%;
+  height: auto;
+}
+
+.portfolio-item {
+  border: 5px solid red;
+  height: 15rem;
 }
